@@ -10,3 +10,7 @@ A data structure is a specialized format for organizing, processing, retrieving,
 A collection of items of the <strong>same variable type</strong>, stored at contigious memory locations. It has two types: 
 - <strong>Primitive array:</strong> They store data directly in the memory
 - <strong>Object array:</strong> String[] arr = new String();
+
+The operations in arrays:
+- <strong>Traversal:</strong> the process of accessing each element in the array sequentially, it has two types: linear and reversal
+- <strong>Insertion:</strong> at begining | at the end | at given position
